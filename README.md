@@ -12,7 +12,7 @@ The Airline Ticket Reservation System (ATRS) is a console-based application deve
 ## Installation
 1. **Clone the Repository:** Clone the ATRS repository to your local machine using the following command:
    ```
-   git clone 
+   git clone https://github.com/Aritra-Mondal-ICS/AirlineTicketReservationSystem.git
 
 ## Introduction
 The Airline Ticket Reservation System (ATRS) is a console-based application developed in C++ to facilitate the reservation of airline tickets. It provides users with functionalities to search for flights, book tickets, cancel reservations, and manage flight schedules. ATRS aims to streamline the ticket reservation process for both users and airline staff.
@@ -26,7 +26,7 @@ The Airline Ticket Reservation System (ATRS) is a console-based application deve
 ## Installation
 1. **Clone the Repository:** Clone the ATRS repository to your local machine using the following command:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Aritra-Mondal-ICS/AirlineTicketReservationSystem.git
    ```
 2. **Compile the Code:** Navigate to the directory containing the source code and compile the program using a C++ compiler. For example:
    ```
@@ -49,24 +49,16 @@ The Airline Ticket Reservation System (ATRS) is a console-based application deve
 
 3. **User Registration:** Users need to register with ATRS to make bookings.
 
-## Contributors
-- [Your Name](https://github.com/yourusername)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
-For any inquiries or issues, please contact [support@example.com](mailto:support@example.com).
-
 ## Acknowledgments
-- Special thanks to [XYZ Airlines](https://www.xyzairlines.com) for inspiration and support.
-- This project was developed as part of the C++ programming course at [Your University Name].
-   ```
-2. **Compile the Code:** Navigate to the directory containing the source code and compile the program using a C++ compiler. For example:
+1. **Compile the Code:** Navigate to the directory containing the source code and compile the program using a C++ compiler. For example:
    ```
    g++ -o atrs main.cpp
    ```
-3. **Run the Program:** Execute the compiled binary to start the ATRS application.
+2. **Run the Program:** Execute the compiled binary to start the ATRS application.
    ```
    ./atrs
    ```
@@ -81,17 +73,7 @@ For any inquiries or issues, please contact [support@example.com](mailto:support
    - Manage flight schedules
    - View bookings
 
-3. **User Registration:** Users need to register with ATRS to make bookings.
-
-## Contributors
-- [Your Name](https://github.com/yourusername)
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
-For any inquiries or issues, please contact [support@example.com](mailto:support@example.com).
 
-## Acknowledgments
-- Special thanks to [XYZ Airlines](https://www.xyzairlines.com) for inspiration and support.
-- This project was developed as part of the C++ programming course at [Your University Name].
