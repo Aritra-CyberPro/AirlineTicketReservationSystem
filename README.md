@@ -76,4 +76,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
+## Author
+[@Aritra-Mondal-ICS](https://www.github.com/Aritra-Mondal-ICS)
