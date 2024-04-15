@@ -12,7 +12,7 @@ The Airline Ticket Reservation System (ATRS) is a console-based application deve
 ## Installation
 1. **Clone the Repository:** Clone the ATRS repository to your local machine using the following command:
    ```
-   git clone https://github.com/Aritra-Mondal-ICS/AirlineTicketReservationSystem.git
+   git clone https://github.com/Aritra-ISS/AirlineTicketReservationSystem.git
 
 ## Introduction
 The Airline Ticket Reservation System (ATRS) is a console-based application developed in C++ to facilitate the reservation of airline tickets. It provides users with functionalities to search for flights, book tickets, cancel reservations, and manage flight schedules. ATRS aims to streamline the ticket reservation process for both users and airline staff.
@@ -26,7 +26,7 @@ The Airline Ticket Reservation System (ATRS) is a console-based application deve
 ## Installation
 1. **Clone the Repository:** Clone the ATRS repository to your local machine using the following command:
    ```
-   git clone https://github.com/Aritra-Mondal-ICS/AirlineTicketReservationSystem.git
+   git clone https://github.com/Aritra-ISS/AirlineTicketReservationSystem.git
    ```
 2. **Compile the Code:** Navigate to the directory containing the source code and compile the program using a C++ compiler. For example:
    ```
