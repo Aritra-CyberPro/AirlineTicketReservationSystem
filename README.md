@@ -1,4 +1,4 @@
-# Airline Ticket Reservation System (ATRS) README
+# Airline Ticket Reservation System (ATRS)
 
 ## Introduction
 The Airline Ticket Reservation System (ATRS) is a console-based application developed in C++ to facilitate the reservation of airline tickets. It provides users with functionalities to search for flights, book tickets, cancel reservations, and manage flight schedules. ATRS aims to streamline the ticket reservation process for both users and airline staff.
